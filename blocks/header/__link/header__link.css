@@ -1,0 +1,18 @@
+
+.header__link {
+  text-decoration: none;
+  transition: opacity 1s linear;
+}
+
+.header__link:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.header__link:link {
+  color: #2f80ed;
+}
+
+.header__link:visited {
+  color: #2f80ed;
+}
